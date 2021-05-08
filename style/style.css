@@ -152,13 +152,15 @@ margin: 70px 0 0 100px;
 .about-us{
     display:inline-block;
     margin: 150px 0 0 0;
-    
+    transform: translateY(40px);
 }
 
 .about-us p{
     display:inline-block;
     font-size: 34px;
     color: rgb(140, 140, 140);
+    vertical-align: middle;
+    
     
 }
 .about-line-x{
@@ -189,6 +191,7 @@ width: 200px;
     font-size: 34px;
     text-align:left;
     color: rgb(140, 140, 140);
+    vertical-align: middle;
 }
 
 
@@ -220,7 +223,7 @@ width: 200px;
     font-size: 34px;
     color: rgb(140, 140, 140);
     margin:0px 0px 0px 150px;
-    visibility: visible;
+    vertical-align: middle;
 
 
  }   
@@ -232,7 +235,7 @@ display: inline-block;
     font-size: 34px;
     text-align:left;
     color: rgb(140, 140, 140);
-
+   vertical-align: middle;
 }
 
 .our-div{
@@ -246,4 +249,48 @@ display: inline-block;
     display: inline-block;
     margin: 0 0 0px 0;
 }
+.about-line-y2{
 
+    height: 400px;
+    width: 0;
+  border-style:solid ;
+  color: wheat;
+    margin-left:145px ;
+    display: inline-block;
+    position: absolute;
+}
+
+.num{
+
+    color:#fed876;
+    font-size: 90px;
+    display: inline-block;
+    vertical-align: middle;
+
+}
+.word{
+    color: rgb(140, 140, 140);
+    font-size: 30px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.p-1{
+display: inline-block;
+margin: 70px;
+vertical-align: middle;
+
+}
+
+.p-2{
+    display: inline-block;
+    margin: 70px;
+    vertical-align: middle;
+}
+
+
+.p-3{
+    display: inline-block;
+    margin: 70px;
+    vertical-align: middle;
+
+}
