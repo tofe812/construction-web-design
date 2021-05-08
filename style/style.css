@@ -192,9 +192,58 @@ width: 200px;
 }
 
 
+.our-line-y{
+
+    height: 400px;
+    width: 0;
+  border-style:solid ;
+  color: wheat;
+    margin-left:113px ;
+    display: inline-block;
+    position: absolute;
+
+}
+
+.our-line-x{
+    width: 200px;
+    
+        border-style:solid ;
+        color: wheat;
+        display: inline-block;
+        margin-left:80px ;
+        margin-bottom: 10px;
+    }
+
+ .our{
+
+    display:inline-block;
+    font-size: 34px;
+    color: rgb(140, 140, 140);
+    margin:0px 0px 0px 150px;
+    visibility: visible;
 
 
+ }   
 
+.our-p{
 
+display: inline-block;
+    margin: 200px 0px 50px 0px;
+    font-size: 34px;
+    text-align:left;
+    color: rgb(140, 140, 140);
 
+}
+
+.our-div{
+
+    height: 500px;    
+    margin: 70px 0 0 100px;
+
+}
+
+.oo{
+    display: inline-block;
+    margin: 0 0 0px 0;
+}
 
