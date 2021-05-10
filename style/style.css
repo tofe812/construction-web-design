@@ -281,16 +281,55 @@ vertical-align: middle;
 
 }
 
-.p-2{
-    display: inline-block;
-    margin: 70px;
-    vertical-align: middle;
+.our-project-text{
+    margin-top: 60vh;
+    margin-left: 32.85vh;
 }
 
+.our-project-text h2{
+    color: #fff;
+    font-size: 50px;
+}
 
-.p-3{
-    display: inline-block;
-    margin: 70px;
-    vertical-align: middle;
+.project-01 {
+    margin-top: 20vh;
+    display: flex;
+}
 
+.project-01 img{
+    width: 90vh; /* width of container */
+    height: 60vh; /* height of container */
+    object-fit: fill;
+    margin-left: 12vh;
+}
+
+.projects-text {
+    color: #fff;
+    margin-top: 2vh;
+}
+
+.project-text {
+    display: block;
+    color: #fff;
+    margin-top: 2vh;
+    margin-left: 10vh;
+}
+
+.projects-text-horizontal {
+    display: flex;
+}
+
+.project-num {
+    color: #fed876;
+    font-size: 17vh;
+}
+
+.project-name {
+    font-size: 5vh;
+    margin-top: 10vh;
+}
+
+.project-desc {
+    margin-top: 15vh;
+    font-size: 5vh;
 }
