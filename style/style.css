@@ -7,7 +7,7 @@
 body{
 
     background-color:rgba(26, 32, 38);
-    margin: 30px;
+    
 }
 
 
@@ -333,3 +333,59 @@ vertical-align: middle;
     margin-top: 15vh;
     font-size: 5vh;
 }
+.why-choose-us{
+
+margin-top: 40vh;
+
+}
+
+.line-why{
+    border: solid wheat;
+    height:40vh;
+    width:0.5vw;
+    display: inline-block;
+    background-color: wheat;
+    margin-left: 22vw;
+}
+
+.why-div{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 5vh;
+    margin-left: 3vw;
+}
+.why{
+    color: rgb(140, 140, 140);
+    font-size:xx-large;
+    margin-bottom:10vh ;
+    
+
+}
+.why-p{
+    color: rgb(140, 140, 140);
+    font-size:x-large;
+}
+
+
+.photo{
+    height: 250vh;
+    width: 76%;
+background-color: #fff;
+
+}
+
+
+
+
+.photo div{
+    
+    background-image:url(/style/images/1.png);
+    background-color: #290435;
+   
+    width: 80%;
+    height: 27%;
+    margin-top: 10vh;
+    transform: translatex(60%);
+
+}
+
