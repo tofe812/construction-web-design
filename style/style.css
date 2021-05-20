@@ -85,7 +85,7 @@ margin:30px 0px 30px 100px;
 }
 .name p{
      text-align:left;
-    color: wheat;
+    color:#7a9060;
     font-size: 70px;
     margin-top: 100px;
     margin-left: 80px;
@@ -201,7 +201,7 @@ width: 200px;
     width: 0;
   border-style:solid ;
   color: wheat;
-    margin-left:113px ;
+    margin-left:49.2% ;
     display: inline-block;
     position: absolute;
 
@@ -216,6 +216,7 @@ width: 200px;
         margin-left:80px ;
         margin-bottom: 10px;
     }
+    
 
  .our{
 
@@ -224,14 +225,16 @@ width: 200px;
     color: rgb(140, 140, 140);
     margin:0px 0px 0px 150px;
     vertical-align: middle;
+    
 
 
  }   
 
 .our-p{
 
-display: inline-block;
-    margin: 200px 0px 50px 0px;
+    display: inline-block;
+    
+    margin: 00px 0px 50px 0px;
     font-size: 34px;
     text-align:left;
     color: rgb(140, 140, 140);
@@ -247,7 +250,7 @@ display: inline-block;
 
 .oo{
     display: inline-block;
-    margin: 0 0 0px 0;
+    float: right;
 }
 .about-line-y2{
 
@@ -255,8 +258,8 @@ display: inline-block;
     width: 0;
   border-style:solid ;
   color: wheat;
-    margin-left:145px ;
-    display: inline-block;
+    margin-left:150px ;
+    display:inline;
     position: absolute;
 }
 
@@ -309,7 +312,7 @@ vertical-align: middle;
 }
 
 .project-text {
-    display: block;
+    display:inline-block;
     color: #fff;
     margin-top: 2vh;
     margin-left: 10vh;
@@ -321,7 +324,7 @@ vertical-align: middle;
 
 .project-num {
     color: #fed876;
-    font-size: 17vh;
+    font-size: 16vh;
 }
 
 .project-name {
@@ -362,7 +365,7 @@ margin-top: 40vh;
 
 }
 .why-p{
-    color: rgb(140, 140, 140);
+    color: #fff;
     font-size:x-large;
 }
 
@@ -459,11 +462,11 @@ transform: translateY(4vh) translateX(10vw);
 }
 
 .footer-line-x{
-    width: 160vh;
+    width: 100%;
     
         border-style:solid ;
         display: inline-block;
-        margin-left:80px ;
+        margin-left:0px ;
         margin-bottom: 10px;
     }
 
@@ -480,4 +483,5 @@ transform: translateY(4vh) translateX(10vw);
     width: 30px;
     margin-left: 10vh;
     
-}    
+} 
+

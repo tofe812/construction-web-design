@@ -1,0 +1,308 @@
+@media screen and (min-width:401px) and (max-width:768px)   {
+
+    
+    
+    header{
+        margin: 0;
+        
+    }
+    
+    .logo{
+        margin: 4% 7% 3% 2%;
+        
+    }
+    
+    
+ 
+    
+  
+    nav ul li{
+        margin: 7% 3% 0 0;
+    }
+    nav ul li a{
+        font-size: 3.5vw; 
+    }
+    
+    .email{
+    margin:7% 0 0 0;
+    }
+    
+    .name{
+        width: 82%;
+        height: 100%;
+     
+        margin: 7% 0px 0px 30px ;
+       
+       
+    }
+    .name p{
+         
+        font-size: 50px;
+        margin-top: 10%;
+        margin-left: 7%;
+    
+    }
+    
+    .social{
+        display:inline-grid ;
+        margin: 7% 0 0 0;
+        
+    }
+    
+    
+    .social p,img{
+         
+        writing-mode:vertical-rl;
+        margin: 15px 0px 0px 2%;
+         
+    }
+    .social img{
+    
+    
+        margin: 15px 0 0 15% ;
+    
+    }
+
+    .line1{
+    margin: 12px 0px 0px 25%;
+    }
+    
+    
+    .icon2{
+        display:inline-block ;
+        width: 22px;
+    
+    }
+     
+    .abut{
+    height: 500px;
+    display: block;
+    
+    margin: 70px 0 0 100px;
+    }
+    
+    
+    .about-us{
+        display:block;
+        margin: 150px 0 0 0;
+    
+    }
+    
+    .about-us p{
+        display:inline-block;
+        font-size: 2rem;
+        color: rgb(140, 140, 140);
+        vertical-align: middle;
+        
+        
+    }
+    .about-line-x{
+    width: 35vw;
+
+        border-style:solid ;
+        margin-left:8vw ;
+        margin-bottom: 1vh;
+    }
+    
+    .about-line-y{
+        display:none;
+    }
+    .apuot-p{
+        display:block;
+        margin: 20% 0 5% 0;
+        font-size: 1.5rem;
+    }
+    
+    
+    .our-line-y{
+        display:none;
+    
+    }
+    
+    .our-line-x{
+
+            width: 200px;
+            
+        
+            display: inline-block;
+            margin-left:50vw ;
+           
+            
+        }
+    
+.our{
+    display:inline-block;
+    font-size: 2rem;
+    margin:0px 0px 0px 0px;
+    vertical-align: left;
+    
+    
+}   
+
+    
+    .our-p{
+    
+    display: inline-block;
+        margin: 7% 0px 50px 0px;
+        font-size: 1.5rem;
+        text-align:left;
+        color: rgb(140, 140, 140);
+       vertical-align: middle;
+    }
+    
+    .our-div{
+        vertical-align: middle;
+        height: 500px;    
+    
+    }
+    
+    .oo{
+        display: inline-block;
+        margin: 0 0 0px 0;
+    }
+    .about-line-y2{
+    
+        display: none;
+    }
+    
+ 
+  
+    
+    .our-project-text{
+        display: block;
+        margin-top: 20vh;
+        margin-left: 15vw;
+    }
+    
+    .our-project-text h2{
+        color: #fff;
+        font-size: 50px;
+    }
+    
+    .project-01 {
+        margin-top: 20vh;
+        display: block;
+    }
+    .line-why{
+     
+        display:none;
+       
+    }
+    
+    .why-div{
+        display: inline-block;
+        vertical-align: center;
+        
+
+        margin-top: 0vh;
+        margin-left: 25%;
+    }
+    .why{
+        color: #fff;
+        font-size:xx-large;
+        margin-bottom:10vh ;
+        
+    
+    }
+    .why-p{
+        color: rgb(140, 140, 140);
+        font-size:x-large;
+    }
+    
+    
+    .photo{
+        height: 250vh;
+        width: 76%;
+    background-color: #fff;
+    
+    }
+    
+    
+    
+    
+    .first-p{
+        
+        background:linear-gradient(#1a2026f5, #1a202641), url(/style/images/1.png) no-repeat;
+       
+       
+        width: 80%;
+        height: 27%;
+        margin-top: 10vh;
+        transform: translatex(60%);
+    
+    }
+    
+    .sconde-p{
+    
+        background:linear-gradient(#1a2026f5, #1a202641), url(/style/images/2.png)  no-repeat;
+        width: 80%;
+        height: 27%;
+        margin-top: 10vh;
+        transform: translatex(60%);
+    }
+    
+    .therd-p{
+    
+        background:linear-gradient(#1a2026f5, #1a202641), url(/style/images/3.png) no-repeat;
+        width: 80%;
+        height: 27%;
+        margin-top: 10vh;
+        transform: translatex(60%);
+    }
+    
+    .box-1{
+    
+    width: 50vw;
+    height: 30vh;
+    background-color: #fff;
+    transform: translatex(-60%) translatey(50%);
+    text-align: center;
+    font-size: xx-large;
+    vertical-align:middle;
+    
+    }
+    
+    .box-1 b{
+      display: inline;
+      flex-wrap: wrap;
+      align-content:center;
+    transform: translateY(4vh) translateX(10vw);
+       
+    }
+    
+    .up-2 {
+        opacity: 0.2;
+        float: left;
+        align-content:center;
+    }
+    
+    .arrow{
+        color: #fed876;
+        margin-left: 15vw;
+        font-size: 5vw;
+        display: inline;
+        
+    }
+    
+    .page-footer{
+        height: 100vh;
+        width: 100%;
+        color: white;
+        font: bold 2em/2em monospace;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+       
+       background: linear-gradient(to right,#4d4b52c5, #565258cc), url(/style/images/4.jpg) no-repeat top center;
+    }
+    
+    .footer-content {
+        display: inline-block;
+        text-align: center;
+    }
+    
+
+
+}
+
+
